@@ -1,0 +1,6 @@
+body{
+    background-size: cover; /*1枚の画像を背景いっぱいに*/
+    background-attachment: fixed; /*固定*/
+    background-position: center center; /*縦横中央*/
+    background-image : url(last.jpg);/*画像読み込み*/
+}
